@@ -1,7 +1,7 @@
 # ARCAutomationFwk
 This is ARC GMP Automation
 
-Steps :
+Steps : link on how to Run "http://www.screencast.com/t/cOzJPC18"
 
 1. TO Run This for First Time you need to Add Red cross email Id and password in config.properties under resources folder.
 
